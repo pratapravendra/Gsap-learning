@@ -4,9 +4,7 @@ Whisper Bloom is a modern, visually appealing landing page designed to showcase 
 
 ---
 
-## 📸 Preview
 
-![Whisper Bloom Preview](./public/preview.jpg)
 
 ---
 
